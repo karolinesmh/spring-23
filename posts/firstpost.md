@@ -1,6 +1,6 @@
 ---
-title: This is my first post.
-description: This is a description of a post.
+title: MrWonkyLegs.
+description: Hi, my name is Jem and I am an American Pit Bull Terrier!
 date: 2018-05-01
 tags:
   - another tag
