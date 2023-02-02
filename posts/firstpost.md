@@ -1,5 +1,5 @@
 ---
-title: MrWonkyLegs.
+title: MrWonkyLegs!
 description: Hi, my name is Jem and I am an American Pit Bull Terrier!
 date: 2023-02-01
 tags:
