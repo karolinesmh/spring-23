@@ -1,13 +1,24 @@
 ---
-title: This is the third post.
-description: This is the description of the third post.
-date: 2018-08-24
+title: Health Update!
+description: Jem was recently at UW Vet Clinic for emergency surgery.
+date: 2023-02-02
 tags:
-  - second tag
-  - posts with two tags
+  - MrWonkyLegs
+  - IMHA
+  - AmericanPitBullTerrier
+  - RescueDog
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Hello friends, the past couple of weeks have been a lot! I had a follow up at the UW Veterinary Care a couple of weeks ago and had an ultrasound completed on my liver and gallbladder because my levels were off. We decided to start weaning me off prednisone because of all of my side effects.
+
+Not long after, I went to my local vet. My hematocrit was lower so we planned on doing a transfusion the next day to get me through this process. However, I began vomiting and would not eat and was super lethargic. We headed to Madison for a transfusion which they did overnight.
+
+I still was not my usual self, so another ultrasound was done and free fluid was found in my abdomen. It turned out to be bile from my gallbladder. Complications from the aspiration that was completed with the intial ultrasound. I needed to have emergency surgery to remove it.
+
+I am home recovering from the surgery and am taking a new medications to help combat the Babesiosis! I will continue to keep you all updated.
+
+Love,
+Jem <3
 
 ``` js/2/4
 // this is a command
@@ -22,8 +33,3 @@ function myCommand() {
 console.log('Test');
 ```
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
