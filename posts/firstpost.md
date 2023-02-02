@@ -3,7 +3,13 @@ title: MrWonkyLegs!
 description: Hi, my name is Jem and I am an American Pit Bull Terrier!
 date: 2023-02-01
 tags:
-  - #AmericanPitBullTerrier #MrWonkyLegs #AngularLimbDeformity #HeartWormSurvivor #CaninePlasmacytosis #Babesiosis #EvansSyndrome
+  - AmericanPitBullTerrier
+  - MrWonkyLegs
+  - AngularLimbDeformity
+  - HeartWormSurvivor
+  - CaninePlasmacytosis
+  - Babesiosis
+  - EvansSyndrome
 layout: layouts/post.njk
 ---
 
