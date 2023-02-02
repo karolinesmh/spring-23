@@ -3,7 +3,12 @@ title: Jolly Pets Ambassador
 description: Jem has been selected as a Jolly Pets Ambassador!
 date: 2023-02-01
 tags:
-  - #MrWonkyLegs #JollyPets #JollyPetsAmbassador #AmericanPitBullTerrier #DiscountCode #DogBlog
+  - MrWonkyLegs
+  - JollyPets
+  - JollyPetsAmbassador
+  - AmericanPitBullTerrier
+  - DiscountCode
+  - DogBlog
 layout: layouts/post.njk
 ---
 ![IMG_8122](https://user-images.githubusercontent.com/123126569/216219947-a9f0678d-0f2b-4d3c-905d-4c30f515e0b1.jpeg)
