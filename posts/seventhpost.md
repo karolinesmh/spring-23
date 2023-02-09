@@ -20,7 +20,7 @@ Finding treats for your dogs is easy. Finding the best treats for your dogs heal
 
 <h2> 1. Old Mother Hubbard
 
-<h4> Old Mother Hubbard is a dog treat brand that has been around for YEARS (since 1926). The ingredeints include real chicken, fruits, vegetables, and grains! You can usually find this brand on sale, and it already is not very expensive at regular price. Old Mother Hubbard is the best bang for your buck. 
+<h4> Old Mother Hubbard is a dog treat brand that has been around for YEARS (since 1926). The ingredients include real chicken, fruits, vegetables, and grains! You can usually find this brand on sale, and it already is not very expensive at regular price. Old Mother Hubbard is the best bang for your buck. 
 
 <h2> 2. Charlee Bears
 
