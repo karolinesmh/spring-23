@@ -1,7 +1,7 @@
 ---
 title: The Best Small Dog Businesses!
 description: Jem's favorite small businesses to shop at!
-date: 2023-02-01
+date: 2023-02-08
 tags:
   - AmericanPitBullTerrier
   - MrWonkyLegs
@@ -15,11 +15,20 @@ layout: layouts/post.njk
 
 These are the best small businesses to shop at for the cutest doggy toys and accessories!
 
-<h2> Itty Bitty Pitty Co.
+<h2> 1. Itty Bitty Pitty Co.
+  Itty Bitty Pitty Co. is an ecofriendly company based out of Kansas City, Mo! They offer an assortment of bandanas, stickers, scruchies, keychains, and even human face-masks to match with your pet! The company offers free shipping on domestic orders over $50.
+  
+  Price range is $4-14
 
-<h2> Plus Size Pooch
+<h2> 2. Plus Size Pooch
 
-
+<h2> 3. JumpingLus
+  
+<h2> 4. Stone Blind Studio
+  
+<h2> 5. Bow Wow Clothing Co.
+  
+<h2> 6. GOODBOY Wear  
 
 ```text/2-3
 // this is a command
