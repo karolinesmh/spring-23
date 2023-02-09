@@ -17,7 +17,7 @@ These are the best small businesses to shop at for the cutest doggy toys and acc
 
 <h2> 1. Itty Bitty Pitty Co.
 
-<h6> Itty Bitty Pitty Co. is an ecofriendly company based out of Kansas City, Mo! They offer an assortment of bandanas, stickers, scruchies, keychains, and even human face-masks to match with your pet! The company offers free shipping on domestic orders over $50.
+<h4> Itty Bitty Pitty Co. is an ecofriendly company based out of Kansas City, Mo! They offer an assortment of bandanas, stickers, scruchies, keychains, and even human face-masks to match with your pet! The company offers free shipping on domestic orders over $50.
   
 Price range is $4-14
 
