@@ -1,5 +1,5 @@
 ---
-title: The Two Best Treat Brands to Feed Your Dog!
+title: The Three Best Treat Brands to Feed Your Dog!
 description: Jem's and Momma Sherry's favorite dog treats!
 date: 2023-02-08
 tags:
