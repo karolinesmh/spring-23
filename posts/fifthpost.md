@@ -15,7 +15,9 @@ layout: layouts/post.njk
 
 These are the best small businesses to shop at for the cutest doggy toys and accessories!
 
+subheading: Itty Bitty Pitty Co.
 
+subheading: Plus Size Pooch
 
 
 
