@@ -13,7 +13,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-These are the best/b small businesses to shop at for the cutest doggy toys and accessories!
+These are the best small businesses to shop at for the cutest doggy toys and accessories!
 
 <h2> 1. Itty Bitty Pitty Co.
 
