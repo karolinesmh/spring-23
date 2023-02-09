@@ -13,7 +13,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-These are the best small businesses to shop at for the cutest doggy toys and accessories!
+These are the best/b small businesses to shop at for the cutest doggy toys and accessories!
 
 <h2> 1. Itty Bitty Pitty Co.
 
@@ -25,7 +25,7 @@ These are the best small businesses to shop at for the cutest doggy toys and acc
   
 <h2> 3. JumpingLus
   
-JumpingLus is an Etsy Shop based out of Ohio! They offer cute beaded collars, bandanas, and vinyl add-ons! JumpingLus also takes custom collar and vinyl orders.  
+<h4> JumpingLus is an Etsy Shop based out of Ohio! They offer cute beaded collars, bandanas, and vinyl add-ons! JumpingLus also takes custom collar and vinyl orders.  
   
 <h2> 4. Stone Blind Studio
   
