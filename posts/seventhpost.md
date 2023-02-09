@@ -16,7 +16,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-Finding treats for your dogs is easy. Finding the best treats for your dogs health can be challenging! Especially with Jem's Health, incorporating healthier treats into his diet is a MUST.
+Finding treats for your dogs is easy. Finding the best treats for your dogs health can be challenging! Especially with Jem's health, incorporating healthier treats into his diet is a MUST.
 
 <h2> 1. Old Mother Hubbard
 
